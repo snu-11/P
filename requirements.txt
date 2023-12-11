@@ -2,4 +2,4 @@ streamlit
 pandas
 folium
 matplotlib
-numpy as np
+numpy==1.21.2
